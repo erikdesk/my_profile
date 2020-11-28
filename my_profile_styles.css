@@ -1,0 +1,114 @@
+
+
+
+.body-general {
+    font-family: Verdana;
+    background-image: url("https://uploads-ssl.webflow.com/5eefdbc775d5b774bbc7d7e1/5f218b8b0979b7709980b41f_smoke_bottom_right-min.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.section {
+    text-align: center;
+    border: 0pxpx solid rgb(186, 98, 189);
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 5px;
+    width: 75%;
+}
+
+.main-title {
+    text-align: center;
+    width:800px;
+    font-size: 30px;
+    background-color: black;
+    color: rgb(195, 201, 238);
+    border: 2px solid rgb(195, 201, 238);
+    margin: auto;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+.section-title {
+    text-align: center;
+    width:200px;
+    font-size: 30px;
+    background-color: rgb(80, 80, 80);
+    color: white;
+    border: 2px solid black;
+    margin: auto;
+    padding: 5px;
+}
+
+.bio-text {
+    text-align: center;
+    width:500px;
+    background-color: rgba(233, 233, 233, 0.85);
+    font-size: 15px;
+    border: 1px solid rgb(146, 146, 146);
+    margin: auto;
+    margin-top: 5px;
+    padding: 5px;
+}
+
+.separator-line {
+    width:80%;
+    height:5px;
+    border-width:0;
+    color: rgba(62, 63, 73, 0.5);
+    background-color: rgba(62, 63, 73, 0.5);
+}
+
+.skills-table {
+    border-collapse: collapse;
+    width:330px;
+    border: 1px solid rgb(146, 146, 146);
+    margin: auto;
+    margin-top: 5px;
+    padding: 0px;
+}
+
+.skills-table-header {
+    background-color: rgba(173, 173, 173, 0.85);
+    border: 1px solid rgb(85, 85, 85);
+    margin-top: 5px;
+    padding: 0px;
+    font-size: 22px;
+}
+
+.skills-table-data {
+    background-color: rgba(233, 233, 233, 0.85);
+    border: 1px solid rgb(146, 146, 146);
+    margin-top: 5px;
+    padding: 0px;
+    font-size: 19px;
+}
+
+.interests-list {
+    width:220px;
+    background-color: rgba(233, 233, 233, 0.85);
+    border: 1px solid rgb(146, 146, 146);
+    margin: auto;
+    padding: 10px;
+    margin-top: 5px;
+    text-align: left;
+    font-size: 19px;
+    text-align: left;
+    list-style-position: inside;
+    list-style-type:none;
+}
+
+.bio-image {
+    height: 200px;
+    border: 1px solid black;
+}
+
+.logo-image {
+    height: 100px;
+}
+
+.interests-image {
+    height: 200px;
+    border: 1px solid black;
+}
